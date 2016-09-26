@@ -5,11 +5,11 @@ Space Runner Graphics Source
 This repository contains the source models for the Space Runner game. They are
 stored in a separate repo from the actual game because of their large size.
 
-The [Space Runner game repo](https://github.com/ferni/SpaceRunner) can be found
+The [Space Runner game](https://github.com/ferni/SpaceRunner) can be found
 at https://github.com/ferni/SpaceRunner
 
 The graphics where created under contract for 
-[Tim 'mithro' Ansell](https://github.com/mithro) <mithro@mithis.com> by;
+[Tim 'mithro' Ansell](https://github.com/mithro) <<mithro@mithis.com>> by;
  * Ryan van Steenburgh <<reel.versatile.studios@gmail.com>>
  * Oscar Ivan Jimenez <<design.jimenez@gmail.com>>
 
